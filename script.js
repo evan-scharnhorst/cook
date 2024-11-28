@@ -69,7 +69,7 @@ if (audioElement) {
 
 // script.js
 const tracks = [
-    { title: "_intro_", file: "songs/_intro_.mp3", cover: "cover.jpg" },
+    { title: "_intro_", file: "songs/-intro-.mp3", cover: "cover.jpg" },
     { title: "WE GONNA COOK", file: "songs/WE GONNA COOK.mp3", cover: "cover.jpg" },
     { title: "_______(!ntern@l c00k!ng)", file: "songs/_______(!ntern@l c00k!ng).mp3", cover: "cover.jpg" },
     { title: "COOK", file: "songs/04 COOK.mp3", cover: "cover.jpg" },
