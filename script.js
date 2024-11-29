@@ -69,19 +69,19 @@ if (audioElement) {
 
 // script.js
 const tracks = [
-    { title: "_intro_", file: "songs/-intro-.mp3", cover: "cover.jpg" },
+    { title: "_intro_", file: "songs/intro.mp3", cover: "cover.jpg" },
     { title: "WE GONNA COOK", file: "songs/WE GONNA COOK.mp3", cover: "cover.jpg" },
-    { title: "_______(!ntern@l c00k!ng)", file: "songs/_______(!ntern@l c00k!ng).mp3", cover: "cover.jpg" },
+    { title: "_______(!ntern@l c00k!ng)", file: "songs/internal cooking.mp3", cover: "cover.jpg" },
     { title: "COOK", file: "songs/04 COOK.mp3", cover: "cover.jpg" },
     { title: "High on Cooking", file: "songs/05 High on Cooking.mp3", cover: "cover.jpg" },
     { title: "casual_cookage", file: "songs/06 casual_cookage.mp3", cover: "cover.jpg" },
-    { title: "_interlude_", file: "songs/_interlude_.mp3", cover: "cover.jpg" },
+    { title: "_interlude_", file: "songs/interlude.mp3", cover: "cover.jpg" },
     { title: "he used to be cooking", file: "songs/he used to be cooking.mp3", cover: "cover.jpg" },
     { title: "LET HIM COOK", file: "songs/LET HIM COOK.mp3", cover: "cover.jpg" },
     { title: "I COOKED", file: "songs/I COOKED.mp3", cover: "cover.jpg" },
     { title: "flow (cooking)", file: "songs/11 flow (cooking).mp3", cover: "cover.jpg" },
     { title: "maximum_cookage", file: "songs/maximum_cookage.exe.mp3", cover: "cover.jpg" },
-    { title: "_outro_", file: "songs/_outro_.mp3", cover: "cover.jpg" }
+    { title: "_outro_", file: "songs/outro.mp3", cover: "cover.jpg" }
 ];
 
 const audio = document.getElementById("audio");
